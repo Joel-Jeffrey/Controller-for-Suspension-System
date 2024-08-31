@@ -1,4 +1,4 @@
-# Control-modelling-for-suspension-system (Done as part of a course project)
+# Control-modelling-for-suspension-system
 
 This is an implementation aimed at modelling a controller for a suspension system.
 
